@@ -1,1 +1,1 @@
-# My template for new fastapi projects with built-in authentication
+# Example of authentication via jwt on fastapi
